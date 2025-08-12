@@ -8,15 +8,17 @@ Welcome! This repository contains the latest version of my **resume**.
 
 I'm **Koushal Sharma**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Acropolis Institute of Technology and Research, Indore.
 
-My core interest lies in **Backend Development** with a strong foundation in **Java**, **JavaScript**, **OOP**, and **Data Structures & Algorithms**. I'm passionate about building real-world solutions using modern technologies and AI concepts.
+My core interest lies in **Backend Development** with a strong foundation in **Java**, **JavaScript**, **OOP**, **Spring Framework**, **Hibernate**, **Spring Boot** and **Data Structures & Algorithms**. I'm passionate about building real-world solutions using modern technologies and AI concepts.
 
 ---
 
 ## 💼 Technical Skills
 
-- **Languages:** Core Java, JavaScript  
+- **Languages:** Advance Java, JavaScript
 - **Database:** MySQL, DBMS Concepts  
 - **CS Concepts:** Object-Oriented Programming, DSA
+- **Tools:** Postman, Github
+- **Frameworks:** Spring, Hibernate, Spring Boot
 
 ---
 
