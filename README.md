@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="resume.svg" alt="Resume" />
+  <img src="Koushal_Sharma_Java_Developer_Resume.svg" alt="Resume" />
 </p>
